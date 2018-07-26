@@ -1,3 +1,7 @@
 
+<<<<<<< HEAD
+=======
+this is centos c1
+>>>>>>> ac7c533d17e4cb46ef919f604f379a3553bd34c0
 this is centos
 this is oracle c1
